@@ -26,7 +26,7 @@ public class Poker {
 				i++;
 			}
 		}
-		if (count == 2)
+		if (count == 23)
 			return true;
 		else
 			return false;
