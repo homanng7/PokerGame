@@ -10,7 +10,7 @@ public class PokerTest {
      * Sets up the test fixture.
      * Called before every test case method.
      */
-	@BeforeEach
+	@BeforeEach   
 	public void setUp() throws Exception { poker = new Poker(); }
     /**
      * Tears down the test fixture.
